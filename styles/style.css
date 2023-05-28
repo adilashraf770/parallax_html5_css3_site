@@ -1,0 +1,120 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 18px;
+    font-family: "lato",sans-serif;
+    font-weight: 40px;
+    line-height: 1.3rem;
+    /* background-color: rgba(204, 204, 204,0); */
+    color: rgba(0, 0, 0, 1);
+}
+.pimg1{
+    min-height: 100% ;
+    background-image: url(/img/image1.png);
+}
+.pimg2{
+    background-image: url(/img/image2.png);
+    min-height: 800px ;
+}
+.pimg3{
+    background-image: url(/img/image3.png);
+    min-height: 800px ;
+}
+.pimg4{
+    background-image: url(/img/pexels-luis-del-río-15286.jpg);
+    min-height: 800px ;
+}
+.pimg1,.pimg2,.pimg3,.pimg4{
+    position: relative;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ptext1{
+    position: absolute;
+    top: 47%;
+    left: 35%;
+    text-align: center;
+    color: black;
+    font-size: 40px;    
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+   
+}
+.bg1{
+background-color:#313435;
+color: white;
+padding: 15px;
+}
+.section-title1{
+  padding: 40px 50px;
+  text-align: center;    
+}
+.section-1{
+    background-color: #ffff;
+    color: #313435e7;
+}
+.ptext2{
+    position: absolute;
+    top: 47%;
+    left: 35%;
+    text-align: center;
+    color: black;
+    font-size: 35px;    
+    letter-spacing: 3px;
+    text-transform: uppercase;
+   
+}
+.bg2{
+background-color:rgba(49, 52, 53, 0.541);
+color: white;
+padding: 15px;
+}
+.section-title2{
+    padding: 40px 50px;
+    text-align: center;    
+  }
+  .section-2{
+      background-color: #313435e7;
+      color:#ffff;
+  }
+.ptext3{
+    position: absolute;
+    top: 47%;
+    left: 35%;
+    text-align: center;
+    color: black;
+    font-size: 35px;    
+    letter-spacing: 3px;
+    text-transform: uppercase;
+   
+}
+.bg3{
+background-color:rgba(49, 52, 53, 0.531);
+color: white;
+padding: 15px;
+}
+.section-title3{
+    padding: 40px 50px;
+    text-align: center;    
+  }
+  .section-3{
+      background-color: #313435e7;
+      color:#ffff;
+  }
+  .ptext4{
+    position: absolute;
+    top: 47%;
+    left: 35%;
+    text-align: center;
+    color: black;
+    font-size: 35px;    
+    letter-spacing: 3px;
+    text-transform: uppercase;
+   
+}
+.bg4{
+background-color:rgba(49, 52, 53, 0.961);
+color: white;
+padding: 15px;
+}
